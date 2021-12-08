@@ -1,0 +1,2 @@
+# MediaPipeGestureManager
+MediaPipe手勢辨識處理
